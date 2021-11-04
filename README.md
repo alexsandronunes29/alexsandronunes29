@@ -17,7 +17,7 @@
 
 -->
 ##FERRAMENTAS E TECNOLOGIAS (EM APRENDIZADO)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />    
+<img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />    
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
