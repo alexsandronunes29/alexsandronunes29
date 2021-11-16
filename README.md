@@ -1,4 +1,4 @@
-## Olá, me chamo Alexsandro, mas pode me chamr de Alex! 
+## Olá, me chamo Alexsandro, mas pode me chamar de Alex! 
 ### Bem vindo ao meu perfil GitHub
 
 <!--
